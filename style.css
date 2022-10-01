@@ -1,0 +1,28 @@
+
+
+.whole {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: #1F2937 ;
+    color:#E5E7EB;
+    font-family: 'Roboto';
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.header-logo {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px 40px;
+    margin-right: auto;
+    
+}
+.header-link {
+    padding: 10px;
+
+}
