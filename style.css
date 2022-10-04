@@ -1,4 +1,10 @@
 
+body {
+    background-color: #E5E7EB;
+    padding: 0;
+    margin: 0;
+    
+}
 
 .whole {
     display: flex;
@@ -104,5 +110,34 @@ button {
     padding-right: 20px;
 }
 
-/*Footer*/
+/*Sign-up*/
+
+.sign-up {
+background-color: #3882F6;
+color: white;
+display: flex;
+margin: 100px;
+border-radius: 8px;
+padding: 10px;
+align-items: center;
+justify-content: space-around;
+flex: 1;
+}
+
+.sign-up-button button {
+    align-items: center;
+    border-color: white;
+    text-decoration: none;
+}
+
+/* Footer */
+
+.footer {
+    background-color: #1f2937;
+    text-align: center;
+    margin-top: auto;
+    color: white;
+    height: 60px;
+    margin: 0px;
+}
 
